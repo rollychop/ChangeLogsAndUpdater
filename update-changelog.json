@@ -1,0 +1,9 @@
+{
+  "latestVersion": "2.5.4",
+  "latestVersionCode": "34",
+  "url": "https://github.com/rollychop/loco-answers/releases",
+  "releaseNotes": [
+       "- Notification to disable overlay and ocr",
+       "- new answer algorithum"
+       ]
+}
