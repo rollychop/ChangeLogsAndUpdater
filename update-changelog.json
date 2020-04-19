@@ -5,13 +5,6 @@
   "releaseNotes": [
        "- Notification to disable overlay and ocr",
        "- new answer algorithum",
-			 "- Four option Error solved",
-       "- Blank screen bug fix",
-       "- Tesseract all types data(fast,best,standard) for accuracy and performance",
-       "- Grayscale image control setting",
-       "- Enlarge Image Setting",
-       "- Android 10 crash fix",
-       "- other bug fixes and performance improvements"
-    	
+	"- Four option Error solved"
        ]
 }
