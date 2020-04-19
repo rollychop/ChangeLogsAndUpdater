@@ -4,6 +4,8 @@
   "url": "https://github.com/rollychop/loco-answers/releases",
   "releaseNotes": [
        "- Notification to disable overlay and ocr",
-       "- new answer algorithum"
+       "- new answer algorithum",
+	  "- Four Option Error Solved for some games and improvment is going on"
+    	
        ]
 }
