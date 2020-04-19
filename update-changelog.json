@@ -1,6 +1,6 @@
 {
-  "latestVersion": "2.5.4",
-  "latestVersionCode": "34",
+  "latestVersion": "2.5.3",
+  "latestVersionCode": "33",
   "url": "https://github.com/rollychop/loco-answers/releases",
   "releaseNotes": [
        "- Notification to disable overlay and ocr",
