@@ -1,11 +1,10 @@
 {
-  "latestVersion": "2.6.1",
-  "latestVersionCode": "35",
+  "latestVersion": "2.6.3",
+  "latestVersionCode": "36",
   "url": "https://firebasestorage.googleapis.com/v0/b/trivia-hack-1c678.appspot.com/o/Builds%2FTrivia-Hack-release-2.6.2-Instant-20200602143215.apk?alt=media&token=3315a604-3d37-4261-ac71-e12670ca0b0d",
   "releaseNotes": [
     "- Added fully support for android 10",
     "- Optimised for Vedantu",
-    "- Optimised for 100 MB Game",
     "- Added features to change User Agent"
        ]
 }
