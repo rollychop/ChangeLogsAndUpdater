@@ -1,11 +1,12 @@
 {
-  "latestVersion": "2.5",
-  "latestVersionCode": "32",
-  "url": "https://firebasestorage.googleapis.com/v0/b/trivia-hack-1c678.appspot.com/o/Builds%2FTrivia-Hack-release-2.6.3-Instant-20200612183939.apk?alt=media&token=d88379a7-1f3e-4e48-b280-0966f1745528",
+  "latestVersion": "2.7",
+  "latestVersionCode": "37",
+  "url": "https://github.com/rollychop/loco-answers/releases",
   "releaseNotes": [
-    "- Added fully support for android 10",
-    "- Optimised for Vedantu",
-    "- Added features to change User Agent",
-"Gjjhgggggjj "
-       ]
+    "- Negative Question Notifier",
+    "- FallBack Notifier",
+    "- Error Notifier",
+    "- Option 4 bug fix",
+    "- Four Option Answer System changed"
+  ]
 }
