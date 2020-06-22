@@ -1,12 +1,8 @@
 {
-  "latestVersion": "2.7",
-  "latestVersionCode": "35",
+  "latestVersion": "1",
+  "latestVersionCode": "1",
   "url": "https://github.com/rollychop/loco-answers/releases",
   "releaseNotes": [
-    "- Negative Question Notifier",
-    "- FallBack Notifier",
-    "- Error Notifier",
-    "- Option 4 bug fix",
-    "- Four Option Answer System changed"
+    "Please Ask for update"
   ]
 }
