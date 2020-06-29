@@ -1,9 +1,11 @@
 {
   "versionCode": 4,
   "version": "0.2.0",
-  "updateUrl": "",
-  "releaseNotes": ["First Update","OCR HELPER"],
-  "appStat": true,
+  "updateUrl": "https://github.com/rollychop/ChangeLogsAndUpdater/releases",
   "isCompulsoryToUpdate": false,
-  "packageName": "com.rolllychop.quizhelper"
+  "releaseNotes": [
+    "-First Update",
+    "-OCR HELPER"
+  ]
+  
 }
