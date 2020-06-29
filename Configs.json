@@ -1,0 +1,9 @@
+{
+  "versionCode": 1,
+  "version": "0.2.0",
+  "updateUrl": "",
+  "releaseNotes": ["",""],
+  "appStat": true,
+  "isCompulsoryToUpdate": true,
+  "packageName": "com.rolllychop.quizhelper"
+}
