@@ -1,0 +1,11 @@
+{
+  "versionCode": 4,
+  "version": "0.2.0",
+  "updateUrl": "https://github.com/rollychop/ChangeLogsAndUpdater/releases",
+  "isCompulsoryToUpdate": false,
+  "releaseNotes": [
+    "-First Update",
+    "-OCR HELPER"
+  ]
+  
+}
